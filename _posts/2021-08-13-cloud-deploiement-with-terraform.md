@@ -6,6 +6,8 @@ comments: false
 tags: Cloud
 ---
 
+This article will make it easier for you to understand and deploy an architecture on the AWS Cloud with Terraform.
+
 ## Infrastructure deployment on AWS with Terraform
 
 ### Installation of Terraform
