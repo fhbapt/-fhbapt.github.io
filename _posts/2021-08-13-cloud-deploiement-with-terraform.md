@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Cloud architecture deploiement with Terraform"
+author: "fhbapt"
+comments: false
+tags: Cloud
+---
+
 ## Infrastructure deployment on AWS with Terraform
 
 ### Installation of Terraform
